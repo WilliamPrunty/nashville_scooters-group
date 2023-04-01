@@ -6,7 +6,7 @@ enabling scooters to serve transportation goals,
 discouraging scooters from piling up on sidewalks,
 keeping it economically viable for companies to operate equitably in the city.
 
-This data for this project can be downloaded as a Postgres backup from https://drive.google.com/file/d/1BXAfByFvHCwX0G1BvTCQ373qKm7wE4Y-/view?usp=share_link.
+This data for this project can be downloaded as a Postgres backup from #############################################.
 
 Some notes about the data:
 When not in use, each scooter will report its location every five minutes. This data is contained in the scooters table.
